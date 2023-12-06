@@ -30,3 +30,5 @@
 1000 1 1000          1000 999
 999 1000             1000 999
 ```
+
+[그래프](https://pitch-eel-0ef.notion.site/Lesson-15-d13ed84a69784fd0ba96ffbab5334bbb?pvs=4)
